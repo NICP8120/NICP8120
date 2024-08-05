@@ -12,4 +12,4 @@ Meu nome é Nicolas
 
 @NICP8120
 
-![descrição do GIF](![image](https://github.com/user-attachments/assets/c26fb44e-2728-4f06-8d63-b9bdbf2019c7)
+![descrição do GIF](https://github.com/user-attachments/assets/c26fb44e-2728-4f06-8d63-b9bdbf2019c7)
